@@ -1,4 +1,4 @@
-# Programas-Python
+# Programas Python
 Sistema Bancário Simples em Python
 
 Este programa em Python é um sistema bancário simples que permite realizar operações básicas, como depósito, saque e consulta de extrato. Foi desenvolvido como parte de um desafio de programação.
@@ -15,6 +15,6 @@ Esse sistema bancário simples é útil para entender conceitos básicos de mani
 Autor: Alexandro F. Silva
 
 
-Para executar o programa, basta ter o Python instalado em seu ambiente de desenvolvimento e executar o arquivo `sistema_bancario.py`. Siga as instruções apresentadas no menu para realizar as operações bancárias disponíveis.
+Para executar o programa, basta ter o Python instalado em seu ambiente de desenvolvimento e executar o arquivo `sistema_bancario.py`. Siga as instruções do menu para realizar as operações bancárias disponíveis.
 
 Esperamos que este sistema bancário simples seja útil para você e ajude a aprimorar suas habilidades em programação Python.
